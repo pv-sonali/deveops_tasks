@@ -1,3 +1,3 @@
 ## Task 3
 
-# Merge Conflict Demo
+# # Merge Conflict Demo - Feature 2
